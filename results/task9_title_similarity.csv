@@ -1,3 +1,3 @@
 Theme,Num_Titles,Avg_Similarity,Std_Deviation,Max_Similarity,Min_Similarity
-Love,25,0.5916,0.2099,0.9686,0.1704
-Hate,25,0.8746,0.1011,1.0,0.4594
+Love,25,0.7234,0.1968,0.9865,0.0906
+Hate,25,0.8372,0.1066,1.0,0.5649
