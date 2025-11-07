@@ -16,12 +16,11 @@ By combining lexicon-based analysis with semantic and contextual NLP methods, it
 | **Title** | *Love and Hate in Poetry* |
 | **Authors** | Rao Ikram, Muhammad Ramish |
 | **Repository** | [https://github.com/Raoikram123/NLP_Project](https://github.com/Raoikram123/NLP_Project) |
-| **Dataset** | 25 Love + 25 Hate/War poetry books (Project Gutenberg) |
-| **Tools** | Python (NLTK, WordNet, Matplotlib, WordCloud), LaTeX (IEEE report) |
+| **Tools** | Python (NLTK, WordNet, Matplotlib, WordCloud)) |
 
 ---
 
-## ⚙️ **Pipeline Summary (Tasks 1–10)**
+##  **Pipeline Summary (Tasks 1–10)**
 
 1. Dataset creation and labeling of 50 poetry books.  
 2. Text preprocessing (lowercasing, tokenization, stopword removal).  
@@ -136,6 +135,5 @@ Hate-themed poem titles show greater internal consistency (0.837 vs 0.723), like
 
 - **Python:** `nltk`, `pandas`, `numpy`, `matplotlib`, `wordcloud`  
 - **Lexical Resources:** WordNet, NRC Emotion Lexicon  
-- **Environment:** Jupyter Notebook + IEEE LaTeX Report
 
 ---
